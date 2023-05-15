@@ -9,6 +9,7 @@ temp/
 *.csv
 *.xlsx
 *.txt
+*.zip
 # Ignore all checkpoints folders
 **/.ipynb_checkpoints/
 
