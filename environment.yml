@@ -23,6 +23,6 @@ dependencies:
     - pylatex==1.4.1
     - shap==0.41.0
     - simpy==4.0.1
-    - tensorflow==2.12.0
+    - tensorflow[and-cuda]
     - xgboost==1.7.5
     
