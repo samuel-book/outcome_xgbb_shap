@@ -19,6 +19,7 @@ dependencies:
     - graphviz
     - flake8==6.0.0
     - mapclassify==2.5.0
+    - mapie==0.7.0
     - pycodestyle_magic==0.5
     - pylatex==1.4.1
     - shap==0.41.0
